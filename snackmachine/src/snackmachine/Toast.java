@@ -2,7 +2,8 @@ package snackmachine;
 
 public class Toast extends Food {
 	public final static double k = 3323.43;
-
+//nananana olololo
+//nananana olololo
 	@Override
 	public int make(int count) {
 
